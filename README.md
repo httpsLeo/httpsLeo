@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 
 <h2>Redes sociais: </h2>
 <a href="https://www.facebook.com/profile.php?id=100004547887933">
-  <img src="https://img.icons8.com/color/48/000000/facebook.png"  width="60px" alt="Facebook"/>
+  <img src="https://img.icons8.com/color/48/000000/facebook.png"  width="60px" alt="Facebook" target="_blank"/>
 </a>
 
 <a href="https://www.instagram.com/leoh.souza_/">
- <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="60px" alt="Instagram"/>
+ <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="60px" alt="Instagram" target="_blank"/>
 </a>
 
 <a href="https://www.linkedin.com/in/leonardodasilvasouza/">
-  <img src="https://img.icons8.com/color/240/000000/linkedin.png" width="60px" alt="LinkedIn"/>
+  <img src="https://img.icons8.com/color/240/000000/linkedin.png" width="60px" alt="LinkedIn" target="_blank"/>
 </a>
