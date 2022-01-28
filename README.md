@@ -10,19 +10,19 @@
 </div>
 
 ---
+<div>
+  <h2>Minhas redes sociais: </h2>
+  <a href="https://www.facebook.com/profile.php?id=100004547887933" alt="Facebook" target="_blank" >
+    <img src="https://img.icons8.com/color/48/000000/facebook.png"  width="60px" aling="center"/>
+  </a>
 
-<h2>Minhas redes sociais: </h2>
-<a href="https://www.facebook.com/profile.php?id=100004547887933" alt="Facebook" target="_blank" >
-  <img src="https://img.icons8.com/color/48/000000/facebook.png"  width="60px" aling="center"/>
-</a>
+  <a href="https://www.instagram.com/leoh.souza_/" alt="Instagram" target="_blank">
+   <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="60px" aling="center"/>
+  </a>
 
-<a href="https://www.instagram.com/leoh.souza_/" alt="Instagram" target="_blank">
- <img src="https://img.icons8.com/plasticine/100/000000/instagram-new--v2.png" width="60px" aling="center"/>
-</a>
-
-<a href="https://www.linkedin.com/in/leonardodasilvasouza/" alt="LinkedIn" target="_blank">
-  <img src="https://img.icons8.com/color/240/000000/linkedin.png" width="60px" aling="center"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/leonardodasilvasouza/" alt="LinkedIn" target="_blank">
+    <img src="https://img.icons8.com/color/240/000000/linkedin.png" width="60px" aling="center"/>
+  </a>
+</div>
 ---
-  ![Snake animation](https://github.com/httpsLeo/httpsLeo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
