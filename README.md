@@ -4,8 +4,10 @@
 ---
 <div>
   <a href="https://www.linkedin.com/in/leonardodasilvasouza/https://www.linkedin.com/in/leonardodasilvasouza/" target="_blank">
-    <img height="50%" src="https://github-readme-stats.vercel.app/api?username=httpsLeo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsLeo&layout=compact&langs_count=16&theme=dark"/>
+    <div align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=httpsLeo&show_icons=true&include_all_commits=true&line_height=20&hide_border=true&theme=dark" width="45%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=httpsLeo&layout=compact&theme=dark&hide_border=true" width="45%" />
+    </div>   
   </a>
 </div>
 
