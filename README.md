@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://www.instagram.com/leoh.souza_/" alt="Instagram" target="_blank">
-   <img src="https://github.com/httpsLeo/httpsLeo/blob/main/insta.png" width="60px" aling="center"/>
+   <img src="https://github.com/httpsLeo/httpsLeo/blob/main/instagram.png" width="60px" aling="center"/>
   </a>
 
   <a href="https://www.linkedin.com/in/leonardodasilvasouza/" alt="LinkedIn" target="_blank">
